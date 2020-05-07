@@ -103,8 +103,8 @@ const questions = [
     ]
   },
   {
-      questions:'What is the capital of SYCHELLES',
-      answer:[
+      question:'What is the capital of SYCHELLES',
+      answers:[
           { text: 'Victoria', correct: true},
           { text: 'Doha', correct: true},
           { text: 'Montreal', correct: true}
