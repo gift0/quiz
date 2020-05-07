@@ -106,8 +106,8 @@ const questions = [
       question:'What is the capital of SYCHELLES',
       answers:[
           { text: 'Victoria', correct: true},
-          { text: 'Doha', correct: true},
-          { text: 'Montreal', correct: true}
+          { text: 'Doha', correct: false},
+          { text: 'Montreal', correct: false}
       ]
   },
   {
